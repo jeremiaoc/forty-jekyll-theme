@@ -13,7 +13,7 @@ nav-menu: true
 		</header>
 
     <h2 id="content">Sample Content</h2>
-    <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+    <p>Train and catch Pokemons while exploring the beauty and rich history of Hokkaido! Hokkaido offers so many things you can explore while embarking in your journey as a Pokemon trainer.</p>
 
     <div class="box alt">
     	<div class="row 50% uniform">
